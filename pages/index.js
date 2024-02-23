@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Por que esta dando erro?</h1>
+    return <h1>Por que deu erro?</h1>
 }
 
 export default Home;
